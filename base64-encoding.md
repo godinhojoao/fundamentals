@@ -1,3 +1,5 @@
+# Base64 encoding
+
 ## Overview
 
 - In this article, we will understand more about Base64 encoding and the importance of knowing this content.
