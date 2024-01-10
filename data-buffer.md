@@ -53,6 +53,9 @@
     - Now if when inserting your name you do a buffer overflow and point to the memory address of the dispenseMoney() function, you will get rich.
   - With this example, you can see that the goal of a buffer overflow is to control the code execution. So you can do whatever you want.
 
+  - ### Curiosity
+    - The name of [Stack Overflow](https://stackoverflow.com/) is based on this concept of buffer overflow. The stack overflow is a kind of buffer overflow.
+
 - ### How to avoid that?
   - Runtime Bounds Checking:
     - It is used to be sure that the variable is using just the allocated memory.
