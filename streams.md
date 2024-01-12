@@ -7,7 +7,7 @@
 
 ## What is it?
 
-- A Stream is a sequence of data elements made available over time.
+- A Stream is a sequence of data elements made available over time. We can think that as a buffer of data that is either used to consume or produce data in small pieces.
 - It's used to handle the continuous flow of data, allowing programs to read or write data piece by piece rather than loading the entire dataset into memory at once.
 - Streams are commonly used for input and output operations, where data is processed or transmitted sequentially.
 
@@ -46,6 +46,19 @@
     - When you want to save the state of an object, transmit structured data over a network, or store it in a format that can be easily reconstructed later.
     - Focused on preparing structured data for storage or transmission
 
+## Duplex Streams
+
+- A duplex stream can be thought of as a combination of both readable (input) and writable (output) streams. It provides a bidirectional flow of data, allowing components of a program to both consume and produce data simultaneously.
+  - Both readable and writable streams are independent and each have separate internal buffer.
+  - The reads and writes events happen independently.
+
+- ### Use cases
+  - Commonly used for sending and receiving data simultaneously, as seen in protocols like WebSockets.
+    - WebSockets are specifically designed to enable realtime bidirectional communication between the server and client.
+    - If you want to learn more about WebSockets read: [Ably WebSockets](https://ably.com/topic/websockets-vs-http).
+  - Valuable in scenarios requiring continuous bidirectional data flow, such as chat applications or online gaming.
+  - Duplex streams are often used to transform data during transmission. For example, data can be encrypted on the write side and decrypted on the read side, providing a secure communication channel.
+
 ## Disadvantages of streams
 
 - Working with streams may introduce complexity to the code, especially for beginners.
@@ -57,10 +70,12 @@
 ## References
 
 - [Stack Overflow: Can you explain the concept of streams?](https://stackoverflow.com/questions/507747/can-you-explain-the-concept-of-streams)
+- [Stack Overflow: NodeJS: What's the difference between a Duplex stream and a Transform stream?](https://stackoverflow.com/questions/18335499/nodejs-whats-the-difference-between-a-duplex-stream-and-a-transform-stream)
 - [Cornell Computer Science](https://www.cs.cornell.edu/courses/cs312/2006sp/lectures/lec24.html)
 - [Quora](https://www.quora.com/What-are-streams-in-programming)
 - [Youtube - Streams Are Useful For - Intro to Parallel Programming - Udacity](https://www.youtube.com/watch?v=wYSNqRIoFrI)
 - [Youtube - Advantage of Streams - Intro to Parallel Programming - Udacity](https://www.youtube.com/watch?v=sVMvohsYCQI)
+- [Streams and how they fit into Node.js async nature.](https://levelup.gitconnected.com/streams-and-how-they-fit-into-node-js-async-nature-a08723055a67)
 
 ## Thanks for Reading!
 
