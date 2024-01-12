@@ -52,7 +52,6 @@
   - This is widely used to encode binary data (images, sound files)
     - Save binary files to the database when BLOB is unavailable
   - To prevent data corruption during transmission between different storage mediums.
-    - Preserve raw bytes of cryptographic functions
   - To embed binary data into text documents such as HTML, CSS, JavaScript, or XML.
     - Attach files on email
     - Embed images in HTML or CSS via data URI
