@@ -7,7 +7,8 @@
 ## Contents
 
 - [How Computer Works](/how-computer-works.md)
+- [Binary, bits and bytes](/binary-bits-bytes.md)
 - [Compiler vs Transpiler vs Interpreter](/compiler-transpiler-interpreter.md)
-- [Base64 encoding](/base64-encoding.md)
 - [Data buffer](/data-buffer.md)
 - [Streams](/streams.md)
+- [Base64 encoding](/base64-encoding.md)
