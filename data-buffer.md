@@ -99,6 +99,7 @@
 ## Contacts
 
 - You can find this and more content on:
+  - [My website](https://godinhojoao.com/)
   - [GitHub](https://github.com/godinhojoao)
   - [LinkedIn](https://www.linkedin.com/in/joaogodinhoo/)
   - [Dev Community](https://dev.to/godinhojoao)

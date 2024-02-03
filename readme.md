@@ -7,8 +7,10 @@
 ## Contents
 
 - [How Computer Works](/how-computer-works.md)
+<!-- - [Stack vs Heap Memory](/stack-vs-heap-memory.md) -->
 - [Binary, bits and bytes](/binary-bits-bytes.md)
 - [Compiler vs Transpiler vs Interpreter](/compiler-transpiler-interpreter.md)
 - [Data buffer](/data-buffer.md)
 - [Streams](/streams.md)
 - [Base64 encoding](/base64-encoding.md)
+- [Algorithms](./algorithms.md)

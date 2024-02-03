@@ -81,3 +81,17 @@
 - [Difference between assembly language and high level language](https://www.geeksforgeeks.org/difference-between-assembly-language-and-high-level-language/)
 - [Youtube - How a Computer Works - from silicon to apps](https://www.youtube.com/watch?v=5f3NJnvnk7k&ab_channel=ImprobableMatter)
 - [Youtube - How computers understand programs: From transistors to a CPU](https://www.youtube.com/watch?v=uTNCVRxuP_c&ab_channel=EnqrageEntertainment)
+
+## Thanks for Reading!
+
+- Feel free to reach out if you have any questions, feedback, or suggestions. Your engagement is appreciated!
+
+## Contacts
+
+- You can find this and more content on:
+  - [My website](https://godinhojoao.com/)
+  - [GitHub](https://github.com/godinhojoao)
+  - [LinkedIn](https://www.linkedin.com/in/joaogodinhoo/)
+  - [Dev Community](https://dev.to/godinhojoao)
+
+[Back to home](/readme.md)

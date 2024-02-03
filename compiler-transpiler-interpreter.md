@@ -76,4 +76,16 @@
   - Transpiler: Cross-platform applications, Browser compatibility, code migration, and more.
   - Interpreters: Convenience in Development, Dynamic Typing, faster to debug, and more.
 
-## Thanks for reading! [Back to home](/readme.md)
+## Thanks for Reading!
+
+- Feel free to reach out if you have any questions, feedback, or suggestions. Your engagement is appreciated!
+
+## Contacts
+
+- You can find this and more content on:
+  - [My website](https://godinhojoao.com/)
+  - [GitHub](https://github.com/godinhojoao)
+  - [LinkedIn](https://www.linkedin.com/in/joaogodinhoo/)
+  - [Dev Community](https://dev.to/godinhojoao)
+
+[Back to home](/readme.md)

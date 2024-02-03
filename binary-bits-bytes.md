@@ -64,3 +64,17 @@
 - [Youtube - Bits vs Bytes as Fast As Possible](https://www.youtube.com/watch?v=Dnd28lQHquU&ab_channel=Techquickie)
 - [Youtube - Bit and Byte Explained in 6 Minutes - What Are Bytes and Bits?](https://www.youtube.com/watch?v=y45v5SLjxaM&ab_channel=HoomanMardox)
 - [Youtube - See How Computers Add Numbers In One Lesson](https://www.youtube.com/watch?v=VBDoT8o4q00&ab_channel=InOneLesson)
+
+## Thanks for Reading!
+
+- Feel free to reach out if you have any questions, feedback, or suggestions. Your engagement is appreciated!
+
+## Contacts
+
+- You can find this and more content on:
+  - [My website](https://godinhojoao.com/)
+  - [GitHub](https://github.com/godinhojoao)
+  - [LinkedIn](https://www.linkedin.com/in/joaogodinhoo/)
+  - [Dev Community](https://dev.to/godinhojoao)
+
+[Back to home](/readme.md)
